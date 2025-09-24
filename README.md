@@ -1,4 +1,4 @@
-# Cinema UdeA 🎬
+# CineLab UDEA 🎬
 
 Proyecto integrador de Algoritmia y Programación 2025-2.
 
