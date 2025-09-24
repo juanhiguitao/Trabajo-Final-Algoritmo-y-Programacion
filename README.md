@@ -1,2 +1,2 @@
 # CineLab UDEA
-trabajo final algoritmo y programacion
+Trabajo final algoritmo y programacion
