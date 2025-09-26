@@ -51,8 +51,8 @@ El software permitirá:
 **Juan Felipe Higuita Ortiz**  
 - Programa: Ingeniería Industrial, Facultad de Ingeniería  
 - Seccional: Santa Fe de Antioquia - Occidente  
-- Semestre: Ingreso en 2022-1 (actualmente cursando materias de semestres anteriores por problemas de salud y familiares).  
-- Habilidades y fortalezas: Responsable, pragmático, respetuoso y con capacidad de trabajo en equipo. Flexible, adaptable y orientado a la mejora continua.  
+- Semestre: Inicié en el primer semestre de 2022, lo que me pondria en el sexto semestre. Sin embargo, actualmente continúo cursando asignaturas correspondientes a semestres anteriores debido a problemas de salud bastante graves y serios problemas familiares los cuales tengo la disposicion de explicar solo si son requeridos.  
+- Habilidades y fortalezas: Me considero una persona responsable, bastante prágmatico, respetuoso y con capacidad para el trabajo en equipo. Me adapto con facilidad y flexibilidad a nuevos entorno. Busco mejorar y aprender algo cada día y aportar lo mejor de mi en cada actividad.  
 
 ---
 
