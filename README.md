@@ -11,15 +11,15 @@ Facultad de Ingeniería – Universidad de Antioquia
 - Vínculos académicos y descripción
 - Cinema “CineLab UDEA”
 - Licencia de software
-- [Reporte de visión: Software de gestión para el cinema “CineLab UDEA”](#reporte-de-visión-software-de-gestión-para-el-cinema-cinelab-udea)
-  - [Objetivo General](#objetivo-general)
-  - [Objetivos Específicos](#objetivos-específicos)
-  - [Beneficios](#beneficios)
-- [Gestión operativa del cinema](#gestión-operativa-del-cinema)
-  - [Requisitos funcionales](#requisitos-funcionales)
-  - [Requisitos no funcionales](#requisitos-no-funcionales)
-- [Plan de proyecto](#plan-de-proyecto)
-- [Referencias](#referencias)
+- Reporte de visión: Software de gestión para el cinema “CineLab UDEA”
+  - Objetivo General
+  - Objetivos Específicos
+  - Beneficios
+- Gestión operativa del cinema
+  - Requisitos funcionales
+  - Requisitos no funcionales
+- Plan de proyecto
+- Referencias
 
 ---
 
