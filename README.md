@@ -45,8 +45,8 @@ El software permitirá:
 **Juan Diego Tabares Gaviria**  
 - Programa: Ingeniería Industrial, Facultad de Ingeniería  
 - Seccional: Amalfi - Nordeste  
-- Semestre: Sexto (inició en 2022-1, con materias pendientes por dificultades laborales y personales).  
-- Habilidades y fortalezas: Persona creativa, responsable, curiosa y adaptable. Con disposición a aprender cosas nuevas, encontrar soluciones prácticas a problemas y mejorar en cada proyecto.  
+- Semestre: Sexto inicie el primer semestre en el 2022, pero por dificultades horarias, el trabajo y7 algunos problemas personales aun veo materias de semetres anteriores ademas tengo que tomar pocas matrias por semetre.  
+- Habilidades y fortalezas: me considero una persona creativa,con disposición a explorar y aprender cosas nuevas. me gusta encontrar soluciones prácticas a los problemas. soy responsable, curioso y me adapto facilmente a los cambios y siempre busco mejorar en cada proyecto en el que participo.
 
 **Juan Felipe Higuita Ortiz**  
 - Programa: Ingeniería Industrial, Facultad de Ingeniería  
