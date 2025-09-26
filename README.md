@@ -6,7 +6,7 @@ Facultad de Ingeniería – Universidad de Antioquia
 ---
 
 ## 📑 Contenido
-- [Integrantes](#integrantes)
+- [Integrantes]
 - [Descripción](#descripción)
 - [Vínculos académicos y descripción](#vínculos-académicos-y-descripción)
 - [Cinema “CineLab UDEA”](#cinema-cinelab-udea)
