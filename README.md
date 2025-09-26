@@ -69,7 +69,7 @@ Actualmente, la universidad planea crear un espacio cinematográfico y necesita 
 - Operación: viernes a domingo, de 2:00 p.m. a 6:00 p.m.  
 - Programación: 9 funciones semanales con 3 películas en cartelera.  
 - Capacidad: 121 asientos.  
-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8c9588f4-9185-4f2b-9ded-b53f146afd5d" />
 ---
 
 ## ⚖️ Licencia de software
