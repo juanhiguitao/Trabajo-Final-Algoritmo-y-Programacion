@@ -165,4 +165,18 @@ Desarrollar una aplicación de consola en Python que automatice y optimice las o
 
 <img width="1546" height="404" alt="Image" src="https://github.com/user-attachments/assets/cc9517da-90cb-4ae9-b5a8-686aea797f50" />
 
+---
+
+### Presupuesto
+- 2 estudiantes × 50 horas cada uno = 100 horas totales.  
+- Equivalente académico: 1 SMLV como práctica profesional.
+<img width="994" height="483" alt="Image" src="https://github.com/user-attachments/assets/40ad5bde-94b8-41f8-871e-d80365a6f164" />
+
+---
+
+## 📚 Referencias
+- GitHub – [https://github.com/](https://github.com/)  
+- Markdown Guide – [https://www.markdownguide.org/](https://www.markdownguide.org/)  
+- Creative Commons License Chooser – [https://chooser-beta.creativecommons.org/](https://chooser-beta.creativecommons.org/)
+
 ```md
