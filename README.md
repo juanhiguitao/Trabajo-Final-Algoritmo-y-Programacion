@@ -73,7 +73,10 @@ Actualmente, la universidad planea crear un espacio cinematográfico y necesita 
 ---
 
 ## ⚖️ Licencia de software
-La licencia recomendada es **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**.  
+La licencia recomendada para el software es Creative Commons Atribución 4.0 Internacional Click para ver la licencia Esta licencia exige que se dé debido crédito al creador. Permite distribuir, remezclar, adaptar y desarrollar el material en cualquier medio o formato, incluso con fines comerciales.
+Con esta licencia se tiene libertad para: Compartir, copiar y redistribuir el material en cualquier medio o formato para cualquier propósito, incluso comercial. Adaptar: remezclar, transformar y desarrollar el material para cualquier propósito, incluso comercial. El licenciante no puede revocar estas libertades siempre que cumpla con los términos de la licencia. Bajo los siguientes términos: Atribución: debe otorgar el crédito correspondiente, proporcionar un enlace a la licencia e indicar si se realizaron cambios. Puede hacerlo de cualquier manera razonable, pero no de ninguna manera que sugiera que el licenciante lo respalda a usted o a su uso. Sin restricciones adicionales: no puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otros hacer lo que permite la licencia. Avisos: No tiene que cumplir con la licencia para elementos del material de dominio público o cuando su uso esté permitido por una excepción o limitación aplicable.
+No se ofrecen garantías. Es posible que la licencia no le otorgue todos los permisos necesarios para el uso previsto. Por ejemplo, otros derechos como la publicidad, la privacidad o los derechos morales pueden limitar el modo en que utiliza el material.
+  
 
 **Permite:**  
 - Compartir: copiar y redistribuir en cualquier medio y formato.  
