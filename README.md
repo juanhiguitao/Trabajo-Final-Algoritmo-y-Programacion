@@ -160,14 +160,14 @@ Desarrollar una aplicación de consola en Python que automatice y optimice las o
 5. Generación de reportes administrativos.  
 6. Documentación del sistema.  
 
-### Cronograma
+### 📅 Cronograma
 <img width="880" height="572" alt="Image" src="https://github.com/user-attachments/assets/c17a898a-06b9-4d45-b492-e572924bdd5b" />
 
 <img width="1546" height="404" alt="Image" src="https://github.com/user-attachments/assets/cc9517da-90cb-4ae9-b5a8-686aea797f50" />
 
 ---
 
-### Presupuesto
+### 💲 Presupuesto
 - 2 estudiantes × 50 horas cada uno = 100 horas totales.  
 - Equivalente académico: 1 SMLV como práctica profesional.
 <img width="994" height="483" alt="Image" src="https://github.com/user-attachments/assets/40ad5bde-94b8-41f8-871e-d80365a6f164" />
