@@ -70,6 +70,7 @@ Actualmente, la universidad planea crear un espacio cinematográfico y necesita 
 - Programación: 9 funciones semanales con 3 películas en cartelera.  
 - Capacidad: 121 asientos.  
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8c9588f4-9185-4f2b-9ded-b53f146afd5d" />
+
 ---
 
 ## ⚖️ Licencia de software
@@ -160,7 +161,8 @@ Desarrollar una aplicación de consola en Python que automatice y optimice las o
 6. Documentación del sistema.  
 
 ### Cronograma
-*(Insertar aquí diagrama de Gantt como imagen en `/assets/` y enlazarlo con Markdown, ejemplo:)*  
+<img width="880" height="572" alt="Image" src="https://github.com/user-attachments/assets/c17a898a-06b9-4d45-b492-e572924bdd5b" />
+
+<img width="1546" height="404" alt="Image" src="https://github.com/user-attachments/assets/cc9517da-90cb-4ae9-b5a8-686aea797f50" />
 
 ```md
-![Diagrama de Gantt](./assets/gantt.png)
