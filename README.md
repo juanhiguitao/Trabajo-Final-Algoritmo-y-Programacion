@@ -6,11 +6,11 @@ Facultad de Ingeniería – Universidad de Antioquia
 ---
 
 ## 📑 Contenido
-- [Integrantes]
-- [Descripción](#descripción)
-- [Vínculos académicos y descripción](#vínculos-académicos-y-descripción)
-- [Cinema “CineLab UDEA”](#cinema-cinelab-udea)
-- [Licencia de software](#licencia-de-software)
+- Integrantes
+- Descripción
+- Vínculos académicos y descripción
+- Cinema “CineLab UDEA”
+- Licencia de software
 - [Reporte de visión: Software de gestión para el cinema “CineLab UDEA”](#reporte-de-visión-software-de-gestión-para-el-cinema-cinelab-udea)
   - [Objetivo General](#objetivo-general)
   - [Objetivos Específicos](#objetivos-específicos)
