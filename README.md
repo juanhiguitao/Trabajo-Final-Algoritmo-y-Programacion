@@ -45,14 +45,14 @@ El software permitirá:
 **Juan Diego Tabares Gaviria**  
 - Programa: Ingeniería Industrial, Facultad de Ingeniería  
 - Seccional: Amalfi - Nordeste  
-- Semestre: Sexto; inicie el primer semestre en el 2022, pero por dificultades horarias, el trabajo y algunos problemas personales aun veo materias de semetres anteriores ademas tengo que tomar pocas matrias por semetre.  
-- Habilidades y fortalezas: me considero una persona creativa, con disposición a explorar y aprender cosas nuevas. Me gusta encontrar soluciones prácticas a los problemas. soy responsable, curioso y me adapto facilmente a los cambios y siempre busco mejorar en cada proyecto en el que participo.
+- Semestre: Sexto; inicié el primer semestre en el 2022, pero por dificultades horarias, el trabajo y algunos problemas personales, aún veo materias de semestres anteriores, además tengo que tomar pocas materias por semestre.  
+- Habilidades y fortalezas: me considero una persona creativa, con disposición a explorar y aprender cosas nuevas. Me gusta encontrar soluciones prácticas a los problemas. Soy responsable, curioso y me adapto fácilmente a los cambios y siempre busco mejorar en cada proyecto en el que participo.
 
 **Juan Felipe Higuita Ortiz**  
 - Programa: Ingeniería Industrial, Facultad de Ingeniería  
 - Seccional: Santa Fe de Antioquia - Occidente  
-- Semestre: Inicié en el primer semestre de 2022, lo que me pondria en el sexto semestre. Sin embargo, actualmente continúo cursando asignaturas correspondientes a semestres anteriores debido a problemas de salud bastante graves y serios problemas familiares los cuales tengo la disposicion de explicar solo si son requeridos.  
-- Habilidades y fortalezas: Me considero una persona responsable, bastante prágmatico, respetuoso y con capacidad para el trabajo en equipo. Me adapto con facilidad y flexibilidad a nuevos entorno. Busco mejorar y aprender algo cada día y aportar lo mejor de mi en cada actividad.  
+- Semestre: Inicié en el primer semestre de 2022, lo que me pondría en el sexto semestre. Sin embargo, actualmente continúo cursando asignaturas correspondientes a semestres anteriores debido a problemas de salud bastante graves y serios problemas familiares, los cuales tengo la disposición de explicar solo si son requeridos.  
+- Habilidades y fortalezas: Me considero una persona responsable, bastante prágmatico, respetuoso y con capacidad para el trabajo en equipo. Me adapto con facilidad y flexibilidad a nuevos entornos. Busco mejorar y aprender algo cada día y aportar lo mejor de mí en cada actividad.  
 
 ---
 
@@ -66,7 +66,7 @@ Actualmente, la universidad planea crear un espacio cinematográfico y necesita 
 - Emitir reportes administrativos y consultas.  
 
 **Datos generales:**  
-- Operación: viernes a domingo, de 2:00 p.m. a 6:00 p.m.  
+- Operación: de viernes a domingo, de 2:00 p.m. a 6:00 p.m.  
 - Programación: 9 funciones semanales con 3 películas en cartelera.  
 - Capacidad: 121 asientos.  
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8c9588f4-9185-4f2b-9ded-b53f146afd5d" />
@@ -123,7 +123,7 @@ Desarrollar una aplicación de consola en Python que automatice y optimice las o
 - **Gestión eficiente:** el mapa de sillas en tiempo real optimiza ocupación y control de concurrencia.  
 - **Mejor servicio:** reservas y cancelaciones más fáciles, precios diferenciados según vínculo (estudiante, docente, externo).  
 - **Reportes útiles:** totales, promedios, rankings de usuarios.  
-- **Decisiones basadas en datos:** facilita evaluar ocupación y planificar funciones.  
+- **Decisiones basadas en datos:** facilitan evaluar ocupación y planificar funciones.  
 - **Ahorro de tiempo y recursos:** centraliza todo en una sola aplicación.  
 - **Escalabilidad:** desarrollado en Python, adaptable a mejoras futuras.  
 - **Compatibilidad:** funciona en Windows, Linux y macOS.  
