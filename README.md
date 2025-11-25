@@ -174,6 +174,16 @@ Desarrollar una aplicación de consola en Python que automatice y optimice las o
 
 ---
 
+### 📅 Plan de versionado
+El plan de versionado describe el avance del desarrollo del Software de gestión de CineLab, registrando cada versión y los procedimientos relevantes realizados durante la codificación y desarrollo del sistema.
+
+---
+
+### 📅 Cronograma de versión del software
+## v0.1 Estructura inicial
+
+---
+
 ## 📚 Referencias
 - GitHub – [https://github.com/](https://github.com/)  
 - Markdown Guide – [https://www.markdownguide.org/](https://www.markdownguide.org/)  
