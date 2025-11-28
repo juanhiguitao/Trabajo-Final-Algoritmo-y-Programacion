@@ -182,7 +182,7 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 ## 📌 Cronograma de Versiones del Software — CineLab UDEA
 ### v0.1 – Estructura Inicial del Sistema
 
-Fecha: 14 de enero de 2025
+Fecha: 2 de octubre de 2025
 
 Procedimientos realizados
 
@@ -200,7 +200,7 @@ Estado: ✔ Completado
 
 ### v0.2 – Módulo de Registro de Usuarios
 
-Fecha: 18 de enero de 2025
+Fecha: 8 de octubre de 2025
 
 - Procedimientos realizados
 
@@ -222,7 +222,7 @@ Estado: ✔ Completado
 
 ### v0.3 – Módulo de Mapas de Asientos (11×11)
 
-Fecha: 20 de enero de 2025
+Fecha: 13 de octubre de 2025
 
 Procedimientos realizados
 
@@ -240,7 +240,7 @@ Estado: ✔ Completado
 
 ### v0.4 – Módulo de Registro de Reservas
 
-Fecha: 24 de enero de 2025
+Fecha: 17 de octubre de 2025
 
 Procedimientos realizados
 
@@ -262,7 +262,7 @@ Estado: ✔ Completado
 
 ### v0.5 – Módulo de Cancelación de Reservas
 
-Fecha: 27 de enero de 2025
+Fecha: 24 de octubre de 2025
 
 Procedimientos realizados
 
@@ -280,7 +280,7 @@ Estado: ✔ Completado
 
 ### v1.0 – Módulo de Consulta General de Funciones
 
-Fecha: 30 de enero de 2025
+Fecha: 4 de noviembre de 2025
 
 Procedimientos realizados
 
@@ -294,7 +294,7 @@ Estado: ✔ Completado
 
 ### v1.1 – Módulo Administrador
 
-Fecha: 2 de febrero de 2025
+Fecha: 11 de noviembre de 2025
 
 Procedimientos realizados
 
@@ -318,7 +318,7 @@ Estado: ✔ Completado
 
 ### v1.2 – Optimización y Ajuste de Horarios
 
-Fecha: 5 de febrero de 2025
+Fecha: 13 de noviembre de 2025
 
 - Procedimientos realizados
 
@@ -334,7 +334,7 @@ Estado: ✔ Completado
 
 ### v1.3 – Documentación y Organización del Proyecto
 
-Fecha: 8 de febrero de 2025
+Fecha: 27 de noviembre de 2025
 
 - Procedimientos realizados
 
