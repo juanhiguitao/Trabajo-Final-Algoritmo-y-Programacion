@@ -165,6 +165,12 @@ Desarrollar una aplicación de consola en Python que automatice y optimice las o
 
 <img width="1546" height="404" alt="Image" src="https://github.com/user-attachments/assets/cc9517da-90cb-4ae9-b5a8-686aea797f50" />
 
+<img width="606" height="350" alt="Image" src="https://github.com/user-attachments/assets/3543f9cf-3c30-4242-816d-d681ef4a6e3f" />
+
+<img width="500" height="321" alt="Image" src="https://github.com/user-attachments/assets/61bc3f71-0c5a-44b6-abb4-f1ec382fac03" />
+
+<img width="1702" height="579" alt="Image" src="https://github.com/user-attachments/assets/c963ca3a-a113-4b4f-8eb9-b0f80450d47f" />
+
 ---
 
 ### 💲 Presupuesto
