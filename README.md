@@ -179,8 +179,213 @@ El plan de versionado describe el avance del desarrollo del Software de gestión
 
 ---
 
-### 📅 Cronograma de versión del software
-### v0.1 Estructura inicial
+📌 Cronograma de Versiones del Software — CineLab UDEA
+## v0.1 – Estructura Inicial del Sistema
+
+Fecha: 14 de enero de 2025
+
+Procedimientos realizados
+
+Creación de la estructura base del programa en Python.
+
+Definición del menú principal con las seis opciones requeridas.
+
+Configuración de listas y estructuras de datos iniciales.
+
+Definición de días de funciones (Viernes, Sábado, Domingo).
+
+Definición inicial de la cartelera del fin de semana.
+
+Estado: ✔ Completado
+
+## v0.2 – Módulo de Registro de Usuarios
+
+Fecha: 18 de enero de 2025
+
+Procedimientos realizados
+
+Implementación del registro de usuarios.
+
+Validación de nombre (mínimo 3 letras, sin números).
+
+Validación de apellido (mismas reglas del nombre).
+
+Validación de documento (solo números, longitud 3–15).
+
+Implementación del sistema de selección de tipo de vínculo.
+
+Asignación automática del precio según el vínculo.
+
+Prevención de registros duplicados (mismo documento).
+
+Estado: ✔ Completado
+
+## v0.3 – Módulo de Mapas de Asientos (11×11)
+
+Fecha: 20 de enero de 2025
+
+Procedimientos realizados
+
+Implementación de matrices 11×11 para representar las salas.
+
+Generación de 9 mapas independientes (3 días × 3 películas).
+
+Representación visual con “0” = disponible, “X” = ocupada.
+
+Función para imprimir el mapa en formato A1–K11.
+
+Sistema para convertir un asiento tipo “B5” a índices internos.
+
+Estado: ✔ Completado
+
+## v0.4 – Módulo de Registro de Reservas
+
+Fecha: 24 de enero de 2025
+
+Procedimientos realizados
+
+Integración del registro de reservas con los usuarios existentes.
+
+Selección de funciones: día, película y horario (2 pm, 4 pm, 6 pm).
+
+Presentación del mapa de asientos disponible.
+
+Validación del asiento elegido.
+
+Marcación del asiento como ocupado en la matriz.
+
+Creación del objeto Reserva.
+
+Generación de la factura detallada.
+
+Estado: ✔ Completado
+
+## v0.5 – Módulo de Cancelación de Reservas
+
+Fecha: 27 de enero de 2025
+
+Procedimientos realizados
+
+Implementación de búsqueda de reservas por documento.
+
+Presentación de todas las reservas del usuario.
+
+Selección y validación del índice de la reserva a cancelar.
+
+Restauración del asiento (“X” → “0”) al cancelar.
+
+Eliminación de la reserva del sistema.
+
+Estado: ✔ Completado
+
+## v1.0 – Módulo de Consulta General de Funciones
+
+Fecha: 30 de enero de 2025
+
+Procedimientos realizados
+
+Implementación del listado completo del fin de semana.
+
+Visualización de día, película, hora y número de asientos libres.
+
+Integración con todos los mapas de sillas.
+
+Estado: ✔ Completado
+
+## v1.1 – Módulo Administrador
+
+Fecha: 2 de febrero de 2025
+
+Procedimientos realizados
+
+Implementación del login del administrador (admin / 1234).
+
+Reporte de total de reservas registradas.
+
+Reporte de total de tiquetes vendidos.
+
+Cálculo de ingresos totales.
+
+Cálculo del promedio de ventas diario.
+
+Listado de usuarios registrados.
+
+Identificación del usuario con más reservas.
+
+Identificación del usuario con menos reservas (>0).
+
+Estado: ✔ Completado
+
+## v1.2 – Optimización y Ajuste de Horarios
+
+Fecha: 5 de febrero de 2025
+
+Procedimientos realizados
+
+Corrección de errores en validaciones textuales.
+
+Optimización de impresión del mapa de asientos.
+
+Ajuste del formato de horario de 24h → 12h (2 pm, 4 pm, 6 pm).
+
+Limpieza de código y funciones auxiliares.
+
+Estado: ✔ Completado
+
+## v1.3 – Documentación y Organización del Proyecto
+
+Fecha: 8 de febrero de 2025
+
+Procedimientos realizados
+
+Elaboración del README con documentación general.
+
+Construcción del plan de versionado del software.
+
+Documentación técnica de clases y módulos.
+
+Organización del repositorio del proyecto (carpetas, archivos).
+
+Estado: ✔ Completado
+
+📌 Evolución del Sistema — Resumen por Etapas
+v0.1 – v0.2: Fundamentos del sistema
+
+Estructura del menú principal
+
+Validaciones y registro de usuarios
+
+v0.3 – v0.5: Núcleo funcional del cine
+
+Mapas de asientos
+
+Sistema de reservas
+
+Cancelación de reservas
+
+Facturación
+
+v1.0: Panel de consulta
+
+Estado general del cine
+
+Disponibilidad por función
+
+v1.1: Administración
+
+Reportes
+
+Estadísticas
+
+Gestión interna del sistema
+
+v1.2 – v1.3: Refinamiento y documentación
+
+Correcciones
+
+Ajustes visuales
+
+Organización del repositorio
 
 ---
 
